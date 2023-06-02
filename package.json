@@ -1,8 +1,8 @@
 {
   "name": "e-parts-store",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "This is back-end part of store of electronic parts and related stuff like instruments, consumables etc. ",
+  "author": "Bunakov V.G.",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
