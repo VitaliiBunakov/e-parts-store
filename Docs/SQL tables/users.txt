@@ -5,10 +5,10 @@
 | password          |      |        |           |           |       |
 | M: sign up        |      |        |           |           |       |
 | M: sign in        |      |        |           |           |       |
-| Name              |      |        |           |           |       |
+| name              |      |        |           |           |       |
 | lastname          |      |        |           |           |       |
-|                   |      |        |           |           |       |
-|                   |      |        |           |           |       |
+| cartID            |      |        |           |           |       |
+| wishListId        |      |        |           |           |       |
 |                   |      |        |           |           |       |
 |                   |      |        |           |           |       |
 |                   |      |        |           |           |       |
