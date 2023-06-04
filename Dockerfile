@@ -1,15 +1,14 @@
-# 
 
-FROM node:12
+FROM node:18
 
 WORKDIR /usr/src/app
 
 COPY package*.json ./
 RUN npm install
 
-COPY ./src .
+COPY . .
 
 # !!!  maybe to 8080
 EXPOSE 8080:3000
 
-CMD [ "node", "server.js" ]
+CMD [ "npm", "run", "start" ]

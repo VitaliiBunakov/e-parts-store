@@ -1,4 +1,9 @@
+#Sapecific
+Docs
 
+#Standard
 node_modules
 npm-debug.log
-Docs
+dist
+
+
