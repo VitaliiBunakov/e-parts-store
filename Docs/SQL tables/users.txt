@@ -1,0 +1,12 @@
+| Params and Methods| User | Guest  | Customer  | Manager   | Admin |
+| ------------------| ---- | -----  | --------  | -------   | ----- |
+| id                |      |        |           |           |       |
+| login             |      |        |           |           |       |
+| password          |      |        |           |           |       |
+| M: sign up        |      |        |           |           |       |
+| M: sign in        |      |        |           |           |       |
+| Name              |      |        |           |           |       |
+| lastname          |      |        |           |           |       |
+|                   |      |        |           |           |       |
+| id                |      |        |           |           |       |
+| id    ||||||
